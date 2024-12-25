@@ -3,6 +3,6 @@
 
 希望今后不要这么脆弱
 
-这是树：
+这是tree：
 
 ![alt text](image.png)
